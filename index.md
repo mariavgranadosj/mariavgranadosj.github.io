@@ -16,14 +16,18 @@ permalink: /
   </div>
 </div>
 
-
-Welcome! I’m a **Senior Data Scientist and AI/ML Engineer** with 6+ years of experience designing and delivering production-grade systems across data, machine learning, and AI that drive real business value.
-
-I specialise in building scalable, reproducible ML pipelines, GenAI tools, and full-stack data systems that solve real-world problems. My work spans banking, consulting, and tech — I’m passionate about bridging business needs with practical technical delivery.
-
-This portfolio highlights some of the systems I’ve built or led. 
-
-Looking for someone who can think strategically, build intelligently, and communicate clearly? You’re in the right place.
+<!-- Welcome Note -->
+<div class="card-section bg-light">
+  <div class="container-wide text-center">
+    <p class="lead">
+      Welcome! I’m a <strong>Senior Data Scientist and AI/ML Engineer</strong> with 6+ years of experience designing and delivering production-grade systems across data, machine learning, and AI that drive real business value.
+    </p>
+    <p>
+      I specialise in building scalable, reproducible ML pipelines, GenAI tools, and full-stack data systems that solve real-world problems. My work spans banking, consulting, and tech — I’m passionate about bridging business needs with practical technical delivery.
+    </p>
+    <p>This portfolio highlights some of the systems I’ve built or led. <br>Looking for someone who can think strategically, build intelligently, and communicate clearly? You’re in the right place.</p>
+  </div>
+</div>
 
 <!-- Projects Section -->
 <section id="projects" class="section bg-light">
@@ -75,70 +79,49 @@ Looking for someone who can think strategically, build intelligently, and commun
   </div>
 </section>
 
-
-<!-- ======================== -->
-<!-- 🔍 About Me Section -->
-<!-- ======================== -->
-<section id="about" class="section bg-light">
-  <div class="container">
-    <h2 class="text-center mb-4">👩‍💻 About Me</h2>
-    <p class="lead text-center">
-      Hi, I’m <strong>Maria Granados</strong> — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying production-grade data and AI/ML systems.
-    </p>
-    <p>
-      Based in Australia, I’ve delivered full-stack solutions across banking, consulting, and enterprise tech — spanning churn prediction, NLP classification, LLM prototypes, and MLOps uplift. My work focuses on deployability, automation, and measurable impact.
-    </p>
-    <p>
-      I started in data and platform engineering, progressed into applied ML, and now specialise in building AI systems that combine analytics, experimentation, and real-world decision-making. I bridge the gap between engineering, data science, and strategy — with a strong focus on explainability and scale.
-    </p>
-    <p>
-      I’m currently completing a Master’s in Data Science and exploring senior opportunities in ML engineering, GenAI systems, and AI infrastructure.
-    </p>
-  </div>
+<!-- About Me Section -->
+<section id="about-me" class="card-section bg-dark text-light">
+  <h2>🙋 About Me</h2>
+  <p>Hi, I’m <strong>Maria Granados</strong> — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying data and AI/ML systems that are production-ready, scalable, and aligned with strategic business outcomes.</p>
+  <p>Currently based in Australia, I’ve worked across banking, consulting, and enterprise tech to deliver full-stack solutions in data science, machine learning, GenAI, and MLOps. My work spans everything from churn prediction, NLP classification to LLM prototypes and ML infrastructure uplift — with a strong focus on <strong>deployability, automation, and impact</strong>.</p>
+  <p>I started in <strong>data and platform engineering</strong>, progressed into <strong>applied machine learning</strong>, and now specialise in <strong>building AI systems</strong> that integrate advanced analytics, model experimentation, and reproducible pipelines with real-world decision-making.</p>
+  <p>Known for blending <strong>technical depth</strong> with <strong>consulting fluency</strong>, I bridge the gap between engineering, data science, and business strategy — helping organisations unlock value through well-designed, explainable, and scalable ML systems.</p>
+  <p>I’m currently completing my Master’s in Data Science while exploring opportunities in <strong>ML engineering, GenAI systems, and AI infrastructure</strong> — where I can lead delivery, build impactful tools, and continue deepening my specialisation across applied AI.</p>
 </section>
 
-<!-- ======================== -->
-<!-- 💡 Focus Areas Section -->
-<!-- ======================== -->
-<section id="focus" class="section text-white" style="background: linear-gradient(135deg, #3a0ca3, #7209b7);">
-  <div class="container">
-    <h2 class="text-center mb-4">🧠 Areas of Focus</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <ul>
-          <li>Machine Learning Engineering & Deployment</li>
-          <li>MLOps Pipelines & Automation</li>
-          <li>LLM Integration & GenAI Prototyping</li>
-          <li>Scalable Infrastructure for AI Systems</li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <ul>
-          <li>Design of Experiments (DoE), A/B Testing & Evaluation</li>
-          <li>Data Strategy, Storytelling & Executive Alignment</li>
-          <li>Responsible AI, Model Monitoring & Interpretability</li>
-        </ul>
-      </div>
+<!-- Focus Area -->
+<section id="focus" class="card-section bg-light">
+  <h2>🧠 Areas of Focus</h2>
+  <div class="row justify-content-center text-start">
+    <div class="col-md-6">
+      <ul>
+        <li>Machine Learning Engineering & Deployment</li>
+        <li>MLOps Pipelines & Automation</li>
+        <li>LLM Integration & GenAI Prototyping</li>
+        <li>Scalable Infrastructure for AI Systems</li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <ul>
+        <li>Design of Experiments (DoE), A/B Testing & Evaluation</li>
+        <li>Data Strategy, Storytelling & Executive Alignment</li>
+        <li>Responsible AI, Model Monitoring & Interpretability</li>
+      </ul>
     </div>
   </div>
 </section>
 
-<!-- ======================== -->
-<!-- 🎨 Human + AI Section -->
-<!-- ======================== -->
-<section id="humanity" class="section bg-light">
-  <div class="container">
-    <h2 class="text-center mb-4">🎨 Humanity + AI</h2>
-    <p class="lead text-center">
-      When I’m not building, I explore the narrative structures that shape us — studying cultural systems through history, literature, philosophy, and fashion.
-    </p>
-    <p>
-      I’m fascinated by the patterns that connect us as humans, and by the way imagination gives rise to new worlds once only dreamed. I bring that same curiosity and systems thinking into how I build, design, and deploy AI.
-    </p>
-    <p>
-      To me, AI shouldn’t just serve efficiency — it should expand our capacity to dream, to create, and to shape futures beyond what we once believed possible.
-    </p>
-  </div>
+<!-- Humanity + AI Section -->
+<section id="humanity-ai" class="card-section bg-dark text-light">
+  <h2>🎨 Humanity + AI</h2>
+  <p>When I’m not building, I explore the narrative structures that shape us — studying cultural systems through history, literature, philosophy, and fashion.</p>
+  <p>I’m fascinated by the patterns that connect us as humans, and by the way we can use our imagination to create. I bring that same curiosity and systems thinking into how I build, design, and deploy AI.</p>
+  <p>To me, AI shouldn’t just serve efficiency — it should expand our capacity to dream, to create, and to shape futures beyond what we once believed possible.</p>
+  
+  <!-- William Blake Quote -->
+  <blockquote class="blockquote text-center mt-5" style="font-size: 1.1rem; font-style: italic; border-left: 4px solid #6a0dad; padding-left: 1rem;">
+    “I must create a system, or be enslaved by another man’s;<br>
+    I will not reason and compare: my business is to create.”<br>
+    <footer class="blockquote-footer mt-2">William Blake</footer>
+  </blockquote>
 </section>
-
-

@@ -1,10 +1,27 @@
-/* Global */
-.page-content {
-  max-width: 100%;
-  padding: 0 5%;
+/* =======================
+   🌐 GLOBAL STYLES
+========================== */
+
+body {
+  font-size: 16px;
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
 }
 
-/* Diagonal Hero Section */
+.page-content {
+  max-width: 100%;
+  padding: 0;
+}
+
+/* Optional utility class for reusable padding */
+.p-section {
+  padding: 4rem 10%;
+}
+
+
+/* =======================
+   🎯 DIAGONAL HERO SECTION
+========================== */
 
 #hero-diagonal {
   background: url('/assets/img/header-dark-gradient.png') center/cover no-repeat;
@@ -13,37 +30,6 @@
   color: white;
 }
 
-.container-wide {
-  max-width: 1400px;
-  margin: 0 auto;
-}
-
-.scroll-cue a {
-  color: #ccc;
-  text-decoration: none;
-  animation: bounce 2s infinite;
-  font-size: 2rem;
-}
-.scroll-cue a:hover {
-  color: #fff;
-}
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(8px); }
-  60% { transform: translateY(4px); }
-}
-
-.project-link {
-  color: #1d3c6a;
-  font-weight: bold;
-  text-decoration: none;
-}
-.project-link:hover {
-  text-decoration: underline;
-}
-
-
-/* Make hero section full width */
 .hero-image,
 #header-container {
   max-width: 100% !important;
@@ -52,15 +38,159 @@
   padding: 0 !important;
 }
 
-/* Optional: make the image inside the hero scale nicely */
 .hero-image img {
   width: 100%;
   height: auto;
   display: block;
 }
 
-/* Remove side padding from the main wrapper if needed */
-.page-content {
+
+/* =======================
+   📦 SECTION CONTAINERS
+========================== */
+
+.section,
+.full-width-section {
+  width: 100%;
+  padding: 5% 10%;
+}
+
+.container-wide {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+
+/* =======================
+   💬 SCROLL ANIMATION
+========================== */
+
+.scroll-cue a {
+  color: #ccc;
+  text-decoration: none;
+  animation: bounce 2s infinite;
+  font-size: 2rem;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+.scroll-cue a:hover {
+  color: #fff;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(8px); }
+  60% { transform: translateY(4px); }
+}
+
+
+/* =======================
+   🧱 CARD SECTION (About / Skills / Projects)
+========================== */
+
+.card-section {
+  width: 100%;
   max-width: 100%;
-  padding: 0;
+  padding: 4rem 10%;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+  margin: 3rem auto;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card-section:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+.card-section h2 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border-bottom: 3px solid #560bad;
+  display: inline-block;
+  padding-bottom: 0.5rem;
+}
+
+
+/* =======================
+   ✨ BLOCKQUOTE STYLES
+========================== */
+
+.blockquote {
+  background-color: #f9f9f9;
+  border-left: 4px solid #6a0dad;
+  padding: 1rem 2rem;
+  margin-top: 2rem;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.blockquote-footer {
+  font-size: 0.95rem;
+  color: #666;
+}
+
+
+/* =======================
+   🎨 TEXT COLORS + BACKGROUNDS
+========================== */
+
+.text-light {
+  color: white;
+}
+
+.bg-dark {
+  background-color: #1b1b2f;
+}
+
+.bg-purple {
+  background-color: #560bad;
+}
+
+.bg-light {
+  background-color: #f8f9fa;
+}
+
+
+/* =======================
+   🔗 PROJECT LINK STYLE
+========================== */
+
+.project-link {
+  color: #1d3c6a;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+
+
+/* =======================
+   📱 RESPONSIVE TWEAKS
+========================== */
+
+@media (max-width: 768px) {
+  .card-section,
+  .full-width-section {
+    padding: 3rem 5%;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+  }
+
+  .scroll-cue a {
+    font-size: 1.6rem;
+  }
 }
