@@ -57,7 +57,6 @@ permalink: /
   <div class="inner-card">
     <h2>🚀 Featured Projects</h2>
     <p class="text-center mb-5"> 
-      I’m a Senior Data Scientist and AI/ML Engineer with 6+ years of experience designing and delivering production-grade systems across data, machine learning, and AI that drive real business value.<br/><br/>
       I specialise in scalable ML pipelines, GenAI tools, and full-stack data systems across banking, consulting, and tech — bridging business needs with impactful technical delivery.<br/><br/>
       This portfolio highlights some of the systems I’ve built or led. From churn prediction systems deployed in banking to LLM-powered tools and reporting automation — each project reflects real-world impact.
     </p>
