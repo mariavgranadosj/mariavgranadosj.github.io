@@ -1,13 +1,19 @@
 ---
 layout: page
-title: "Curriculum Vitae"
+title: "Maria Granados"
 permalink: /cv/
 ---
 
-# Maria Granados  
-**Senior Data Scientist | GenAI & ML Engineering**  
+# Senior Data Scientist | GenAI & ML Engineering
+
 📧 maria.v.granadosj@gmail.com |
 🌐 [LinkedIn](https://linkedin.com/in/mvgranados) | 🐙 [GitHub](https://github.com/mariavgranadosj)  
+
+<p style="text-align: center;">
+  <a href="/assets/data/resume.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+    ⬇️ Download PDF Version
+  </a>
+</p>
 
 ---
 
@@ -73,6 +79,5 @@ Strategic and technical data leader with 6+ years’ experience delivering produ
 ## Portfolio  
 
 - GitHub: [github.com/mariavgranadosj](https://github.com/mariavgranadosj)  
-- Site: [Your website link here once deployed]
 
 ---

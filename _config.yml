@@ -27,8 +27,8 @@ author: Maria Granados
 ###############################################
 
 navbar-links:
-  About Me: "about"
-  Portfolio: "portfolio"
+  About Me: /#about
+  Portfolio: /#projects
   Resume: "cv"
 
 ################
@@ -57,7 +57,7 @@ round-avatar: true
 social-network-links:
   email: "maria.v.granadosj@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  gitlab: mariavgranadosj #https://github.com/mariavgranadosj
+  github: mariavgranadosj #https://github.com/mariavgranadosj
   linkedin: mvgranados #https://www.linkedin.com/in/mvgranados
 
 
@@ -98,7 +98,7 @@ rss-description: This website is a portfolio of Maria Granados, a Senior Data Sc
 # Select which social network share links to show in posts
 share-links-active:
   linkedin: true
-  gitlab: true
+  github: true
   email: true
 
 # How to display the link to your website in the footer

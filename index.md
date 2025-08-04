@@ -74,3 +74,71 @@ Looking for someone who can think strategically, build intelligently, and commun
     </div>
   </div>
 </section>
+
+
+<!-- ======================== -->
+<!-- 🔍 About Me Section -->
+<!-- ======================== -->
+<section id="about" class="section bg-light">
+  <div class="container">
+    <h2 class="text-center mb-4">👩‍💻 About Me</h2>
+    <p class="lead text-center">
+      Hi, I’m <strong>Maria Granados</strong> — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying production-grade data and AI/ML systems.
+    </p>
+    <p>
+      Based in Australia, I’ve delivered full-stack solutions across banking, consulting, and enterprise tech — spanning churn prediction, NLP classification, LLM prototypes, and MLOps uplift. My work focuses on deployability, automation, and measurable impact.
+    </p>
+    <p>
+      I started in data and platform engineering, progressed into applied ML, and now specialise in building AI systems that combine analytics, experimentation, and real-world decision-making. I bridge the gap between engineering, data science, and strategy — with a strong focus on explainability and scale.
+    </p>
+    <p>
+      I’m currently completing a Master’s in Data Science and exploring senior opportunities in ML engineering, GenAI systems, and AI infrastructure.
+    </p>
+  </div>
+</section>
+
+<!-- ======================== -->
+<!-- 💡 Focus Areas Section -->
+<!-- ======================== -->
+<section id="focus" class="section text-white" style="background: linear-gradient(135deg, #3a0ca3, #7209b7);">
+  <div class="container">
+    <h2 class="text-center mb-4">🧠 Areas of Focus</h2>
+    <div class="row">
+      <div class="col-md-6">
+        <ul>
+          <li>Machine Learning Engineering & Deployment</li>
+          <li>MLOps Pipelines & Automation</li>
+          <li>LLM Integration & GenAI Prototyping</li>
+          <li>Scalable Infrastructure for AI Systems</li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <ul>
+          <li>Design of Experiments (DoE), A/B Testing & Evaluation</li>
+          <li>Data Strategy, Storytelling & Executive Alignment</li>
+          <li>Responsible AI, Model Monitoring & Interpretability</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================== -->
+<!-- 🎨 Human + AI Section -->
+<!-- ======================== -->
+<section id="humanity" class="section bg-light">
+  <div class="container">
+    <h2 class="text-center mb-4">🎨 Humanity + AI</h2>
+    <p class="lead text-center">
+      When I’m not building, I explore the narrative structures that shape us — studying cultural systems through history, literature, philosophy, and fashion.
+    </p>
+    <p>
+      I’m fascinated by the patterns that connect us as humans, and by the way imagination gives rise to new worlds once only dreamed. I bring that same curiosity and systems thinking into how I build, design, and deploy AI.
+    </p>
+    <p>
+      To me, AI shouldn’t just serve efficiency — it should expand our capacity to dream, to create, and to shape futures beyond what we once believed possible.
+    </p>
+  </div>
+</section>
+
+
