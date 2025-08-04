@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: MOre information on my journey
+subtitle: More information on my journey
 ---
 
 Hi, I’m **Maria Granados** — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying data and AI/ML systems that are production-ready, scalable, and aligned with strategic business outcomes.

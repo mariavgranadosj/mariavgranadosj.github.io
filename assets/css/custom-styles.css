@@ -1,0 +1,36 @@
+/* Diagonal Hero Section */
+#hero-diagonal {
+  background: url('/assets/img/header-dark-gradient.png') center/cover no-repeat;
+  clip-path: polygon(0 0, 100% 0%, 100% 85%, 0% 100%);
+  padding: 5rem 0 8rem;
+  color: white;
+}
+
+.container-wide {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.scroll-cue a {
+  color: #ccc;
+  text-decoration: none;
+  animation: bounce 2s infinite;
+  font-size: 2rem;
+}
+.scroll-cue a:hover {
+  color: #fff;
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(8px); }
+  60% { transform: translateY(4px); }
+}
+
+.project-link {
+  color: #1d3c6a;
+  font-weight: bold;
+  text-decoration: none;
+}
+.project-link:hover {
+  text-decoration: underline;
+}
