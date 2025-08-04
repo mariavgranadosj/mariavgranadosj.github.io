@@ -24,11 +24,14 @@ body {
 ========================== */
 
 #hero-diagonal {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
   background: url('/assets/img/header-dark-gradient.png') center/cover no-repeat;
   clip-path: polygon(0 0, 100% 0%, 100% 85%, 0% 100%);
   padding: 5rem 0 8rem;
   color: white;
 }
+
 
 .hero-image,
 #header-container {
@@ -193,4 +196,139 @@ body {
   .scroll-cue a {
     font-size: 1.6rem;
   }
+}
+
+/* === Smooth Scroll === */
+html {
+  scroll-behavior: smooth;
+}
+
+/* === Full Width Card Sections === */
+.card-section {
+  width: 100vw;
+  padding: 5rem 10%;
+  position: relative;
+  overflow: hidden;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+}
+
+.inner-card {
+  max-width: 1100px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+/* === Alternating Background Colors === */
+.light-bg {
+  background-color: #f9f9f9;
+  color: #222;
+}
+
+.dark-bg {
+  background-color: #1e1f26;
+  color: #f2f2f2;
+}
+
+/* === Diagonal Bottom Divider === */
+.diagonal-bottom::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: inherit;
+  clip-path: polygon(0 100%, 100% 0, 100% 100%);
+  z-index: 1;
+}
+
+/* === Diagonal Top Divider === */
+.diagonal-top::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: inherit;
+  clip-path: polygon(0 0, 100% 100%, 0 100%);
+  z-index: 1;
+}
+
+/* === Headings and Typography === */
+h1, h2, h3 {
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+.card-section p, .card-section li {
+  font-size: 1.15rem;
+}
+
+/* === Navbar Override === */
+.navbar, .site-header {
+  background-color: #0b1220 !important;
+  color: white;
+  border-bottom: none;
+}
+
+/* === Optional: Add spacing to ul inside cards === */
+.card-section ul {
+  padding-left: 1.2rem;
+  margin-top: 1rem;
+  list-style: disc;
+}
+
+/* === Responsive tweak === */
+@media (max-width: 768px) {
+  .card-section {
+    padding: 3rem 5%;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.6rem;
+  }
+
+  .card-section p, .card-section li {
+    font-size: 1rem;
+  }
+}
+
+.card-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url('/assets/img/hex-pattern.svg'); /* Add a low-opacity texture image */
+  background-size: 200px 200px;
+  opacity: 0.03;
+  z-index: 0;
+}
+.diagonal-top::before,
+.diagonal-bottom::after {
+  height: 120px;
 }
