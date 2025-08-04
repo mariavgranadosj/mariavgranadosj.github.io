@@ -7,15 +7,7 @@ permalink: /cv/
 # Senior Data Scientist | GenAI & ML Engineering
 
 📧 maria.v.granadosj@gmail.com |
-🌐 [LinkedIn](https://linkedin.com/in/mvgranados) | 🐙 [GitHub](https://github.com/mariavgranadosj)  
-
-<p style="text-align: center;">
-  <a href="/assets/data/resume.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-    ⬇️ Download PDF Version
-  </a>
-</p>
-
----
+🌐 [LinkedIn](https://linkedin.com/in/mvgranados) | 🐙 [GitHub](https://github.com/mariavgranadosj) | ⬇️ [Resume](/assets/data/resume.pdf)
 
 ## Summary  
 
@@ -74,10 +66,3 @@ Strategic and technical data leader with 6+ years’ experience delivering produ
 - LLM-Powered Streamlit App Certification (2025)  
 - Self-directed learning in Python, ML, Java, and DevOps
 
----
-
-## Portfolio  
-
-- GitHub: [github.com/mariavgranadosj](https://github.com/mariavgranadosj)  
-
----

@@ -122,12 +122,12 @@ permalink: /
 <!-- WILLIAM BLAKE QUOTE -->
 <section class="card-section dark-bg diagonal-top">
   <div class="inner-card">
-    <blockquote class="blockquote text-center">
+    <blockquote>
       <p>
         “I must create a system, or be enslaved by another man’s;<br>
         I will not reason and compare: my business is to create.”
       </p>
-      <footer class="blockquote-footer mt-2">William Blake</footer>
+      <footer>— William Blake</footer>
     </blockquote>
   </div>
 </section>

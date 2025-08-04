@@ -1,4 +1,3 @@
-
 /* ===================== 🌐 GLOBAL STYLES ====================== */
 body {
   font-size: 16px;
@@ -6,6 +5,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 .page-content {
@@ -13,24 +13,25 @@ body {
   padding: 0;
 }
 
-/* Optional utility class */
 .p-section {
   padding: 4rem 10%;
 }
 
 /* ================= DIAGONAL HERO SECTION ===================== */
 #hero-diagonal {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
+  width: 100%;
+  margin-top: 0 !important;
+  padding-top: 6rem;
+  padding-bottom: 8rem;
   background: url('/assets/img/header-dark-gradient.png') center/cover no-repeat;
   clip-path: polygon(0 0, 100% 0%, 100% 85%, 0% 100%);
-  padding: 5rem 0 8rem;
   color: white;
-  margin-top: 0;
+  overflow-x: hidden;
 }
 
 /* Hero image */
-.hero-image, #header-container {
+.hero-image,
+#header-container {
   max-width: 100% !important;
   width: 100% !important;
   margin: 0 auto !important;
@@ -44,7 +45,8 @@ body {
 }
 
 /* ================= SECTION CONTAINERS ======================= */
-.section, .full-width-section {
+.section,
+.full-width-section {
   width: 100%;
   padding: 5% 10%;
 }
@@ -60,29 +62,9 @@ body {
   margin-bottom: 1.5rem;
 }
 
-/* ================= SCROLL ANIMATION ========================= */
-.scroll-cue a {
-  color: #ccc;
-  text-decoration: none;
-  animation: bounce 2s infinite;
-  font-size: 2rem;
-  display: inline-block;
-  transition: color 0.3s ease;
-}
-
-.scroll-cue a:hover {
-  color: #fff;
-}
-
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(8px); }
-  60% { transform: translateY(4px); }
-}
-
 /* ================= CARD SECTION ============================= */
 .card-section {
-  width: 100vw;
+  width: 100%;
   padding: 5rem 10%;
   background-color: white;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
@@ -116,26 +98,30 @@ body {
   list-style: disc;
 }
 
-.card-section p, .card-section li {
+.card-section p,
+.card-section li {
   font-size: 1.15rem;
 }
 
-/* ================= BLOCKQUOTE =============================== */
-.blockquote {
-  font-style: italic;
+/* ================= QUOTE STYLING ============================ */
+.card-section blockquote {
+  background-color: transparent;
   border-left: 4px solid #6a0dad;
-  padding-left: 1rem;
-  margin-top: 2rem;
-  background: none;
-  color: inherit;
-  font-size: 1.2rem;
+  padding: 1.5rem 2rem;
+  margin: 3rem auto 1rem;
+  color: #f2f2f2;
+  font-style: italic;
+  text-align: center;
+  max-width: 800px;
 }
 
-.blockquote-footer {
+.card-section blockquote footer {
+  color: #f2f2f2;
   font-style: normal;
+  font-weight: 400;
   font-size: 1rem;
-  color: #666;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
+  display: block;
 }
 
 /* ================= COLORS & BACKGROUNDS ====================== */
@@ -173,19 +159,45 @@ body {
 }
 
 /* ================= NAVBAR ================================ */
-.navbar, .site-header {
+.navbar,
+.site-header {
   background-color: #0b1220 !important;
   color: white !important;
   border-bottom: none;
+  margin-bottom: 0 !important;
 }
 
-.navbar a, .site-header a, .navbar-brand, .site-title {
+.navbar a,
+.site-header a,
+.navbar-brand,
+.site-title {
   color: #ffffff !important;
   font-weight: 600;
 }
 
-.navbar a:hover, .site-header a:hover {
+.navbar a:hover,
+.site-header a:hover {
   color: #9c8bff !important;
+}
+
+/* ================= SCROLL ANIMATION ========================= */
+.scroll-cue a {
+  color: #ccc;
+  text-decoration: none;
+  animation: bounce 2s infinite;
+  font-size: 2rem;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+.scroll-cue a:hover {
+  color: #fff;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(8px); }
+  60% { transform: translateY(4px); }
 }
 
 /* ================= PROJECT LINK ========================== */
@@ -202,17 +214,17 @@ body {
 
 /* ================= RESPONSIVE =============================== */
 @media (max-width: 768px) {
-  .card-section, .full-width-section {
+  .card-section,
+  .full-width-section {
     padding: 3rem 5%;
   }
 
   h1 { font-size: 2.2rem; }
   h2 { font-size: 2rem; }
   h3 { font-size: 1.6rem; }
-  .card-section p, .card-section li { font-size: 1rem; }
-}
 
-/* === Smooth Scroll === */
-html {
-  scroll-behavior: smooth;
+  .card-section p,
+  .card-section li {
+    font-size: 1rem;
+  }
 }

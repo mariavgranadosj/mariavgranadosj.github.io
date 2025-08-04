@@ -2,7 +2,7 @@
 layout: post
 title: Internal Churn Prediction ML System
 subtitle: Modular, production-grade churn prediction system integrated with strategic decision-making
-cover-img: /assets/img/churn-header.png
+cover-img: /assets/img/churn-background-header.png
 thumbnail-img: /assets/img/churn-header.png
 share-img: /assets/img/churn-header.png
 tags: [churn, ML, banking]
