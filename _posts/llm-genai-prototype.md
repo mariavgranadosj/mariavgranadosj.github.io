@@ -1,13 +1,17 @@
 ---
-title: "LLM-Powered Internal GenAI Tool"
-excerpt: "Prototype using OpenAI LLMs to automate document classification and policy Q&A"
-layout: single
-collection: projects
-author_profile: false
-header:
-  image: /assets/img/genai-header.png
-  caption: "Streamlit + OpenAI prototype for internal use"
+layout: post
+title: LLM-Powered Internal GenAI Tool
+subtitle: Prototype using OpenAI LLMs to automate document classification and policy Q&A
+cover-img: /assets/img/genai-header.png
+thumbnail-img: /assets/img/genai-header.png
+share-img: /assets/img/genai-header.png
+tags: [streamlit, genai, llm]
+author: Maria Granados
+gh-repo: mariavgranadosj/mariavgranadosj.github.io
+comments: true
+mathjax: true
 ---
+
 
 ### Overview
 

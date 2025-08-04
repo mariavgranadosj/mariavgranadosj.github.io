@@ -1,21 +1,17 @@
 ---
-title: "Internal Churn Prediction ML System"
-excerpt: "Modular, production-grade churn prediction system integrated with strategic decision-making"
-layout: single
-collection: projects
-author_profile: false
-header:
-  image: /assets/img/churn-header.png
-  caption: "Churn modeling across Home Loans and Term Deposits"
-  # overlay_color: "#000"
-  # overlay_filter: "0.2"
-  # actions:
-  #   - label: "↓"
-  #     url: "#main-content"
-  #     class: "scroll-cue"
+layout: post
+title: Internal Churn Prediction ML System
+subtitle: Modular, production-grade churn prediction system integrated with strategic decision-making
+cover-img: /assets/img/churn-header.png
+thumbnail-img: /assets/img/churn-header.png
+share-img: /assets/img/churn-header.png
+tags: [churn, ML, banking]
+author: Maria Granados
+gh-repo: mariavgranadosj/mariavgranadosj.github.io
+comments: true
+mathjax: true
 ---
 
-<a id="main-content">
 ### 📌 Project Summary
 
 **Role:** Lead Data Scientist and ML Engineer  
@@ -74,4 +70,3 @@ Shifted the bank's churn management approach from reactive reporting to a proact
 ### 🧰 Tools & Technologies
 
 `Python`, `Snowflake`, `scikit-learn`, `CI/CD`, `Design of Experiments`, `Power BI`, `GitHub Actions`
-</a>

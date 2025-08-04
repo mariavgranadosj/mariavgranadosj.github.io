@@ -1,9 +1,9 @@
 ---
-title: "About"
-permalink: /about/
-layout: single
-author_profile: true
+layout: page
+title: About
+subtitle: More information about my journey
 ---
+
 
 Hi, I’m **Maria Granados** — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying data and AI/ML systems that are production-ready, scalable, and aligned with strategic business outcomes.
 

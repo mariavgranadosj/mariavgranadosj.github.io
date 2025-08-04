@@ -1,12 +1,15 @@
 ---
-title: "Reporting Automation Framework"
-excerpt: "Self-serve reporting and dashboard delivery across business units"
-layout: single
-collection: projects
-author_profile: false
-header:
-  image: /assets/img/reporting.png
-  caption: "Automated workflows and Power BI pipelines"
+layout: post
+title: Reporting Automation Framework
+subtitle: Self-serve reporting and dashboard delivery across business units
+cover-img: /assets/img/reporting.png
+thumbnail-img: /assets/img/reporting.png
+share-img: /assets/img/reporting.png
+tags: [automation, powerbi, streamlit]
+author: Maria Granados
+gh-repo: mariavgranadosj/mariavgranadosj.github.io
+comments: true
+mathjax: true
 ---
 
 ### Overview
