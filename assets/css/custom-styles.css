@@ -1,4 +1,11 @@
+/* Global */
+.page-content {
+  max-width: 100%;
+  padding: 0 5%;
+}
+
 /* Diagonal Hero Section */
+
 #hero-diagonal {
   background: url('/assets/img/header-dark-gradient.png') center/cover no-repeat;
   clip-path: polygon(0 0, 100% 0%, 100% 85%, 0% 100%);
@@ -34,3 +41,5 @@
 .project-link:hover {
   text-decoration: underline;
 }
+
+
