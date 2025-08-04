@@ -124,7 +124,7 @@ permalink: /
     <blockquote>
       <p>
         “I must create a system, or be enslaved by another man’s;<br>
-        I will not reason and compare: my business is to create.”
+        I will not reason and compare: my business is to create.”<br>
         — William Blake
       </p>
     </blockquote>
