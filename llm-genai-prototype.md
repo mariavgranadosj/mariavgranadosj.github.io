@@ -2,7 +2,7 @@
 layout: post
 title: LLM-Powered Internal GenAI Tool
 subtitle: Prototype using OpenAI LLMs to automate document classification and policy Q&A
-cover-img: /assets/img/genai-header.png
+cover-img: /assets/img/genai-header-background.png
 thumbnail-img: /assets/img/genai-header.png
 share-img: /assets/img/genai-header.png
 tags: [streamlit, genai, llm]
