@@ -1,9 +1,7 @@
 ---
-title: "Projects"
-layout: collection
-permalink: /portfolio/
-collection: projects
-author_profile: true
+layout: page
+title: Portfolio
+subtitle: List of projects I've worked on
 ---
 
 A selection of end-to-end ML, GenAI, and automation projects I’ve led or built.

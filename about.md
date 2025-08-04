@@ -3,8 +3,6 @@ layout: page
 title: About
 subtitle: More information about my journey
 ---
-
-
 Hi, I’m **Maria Granados** — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying data and AI/ML systems that are production-ready, scalable, and aligned with strategic business outcomes.
 
 Currently based in Australia, I’ve worked across banking, consulting, and enterprise tech to deliver full-stack solutions in data science, machine learning, GenAI, and MLOps. My work spans everything from churn prediction, NLP classification to LLM prototypes and ML infrastructure uplift — with a strong focus on **deployability, automation, and impact**.

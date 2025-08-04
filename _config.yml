@@ -27,9 +27,9 @@ author: Maria Granados
 ###############################################
 
 navbar-links:
-  About Me: "about"
-  Portfolio: "projects"
-  Resume: "cv"
+  About Me: "aboutme"
+  Portfolio: "portfolio"
+  Resume: "/assets/data/resume.pdf"
 
 ################
 # --- Logo --- #
@@ -302,16 +302,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-## Added by Maria Granados
-
-# Pages:
-pages_list:
-  - name: Home
-    url: /
-  - name: Portfolio
-    url: /pages/projects.md
-  - name: Resume
-    url: /assets/data/resume.pdf
-  - name: About
-    url: /pages/about.md
