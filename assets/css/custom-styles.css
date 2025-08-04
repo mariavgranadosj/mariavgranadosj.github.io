@@ -43,3 +43,24 @@
 }
 
 
+/* Make hero section full width */
+.hero-image,
+#header-container {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+
+/* Optional: make the image inside the hero scale nicely */
+.hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Remove side padding from the main wrapper if needed */
+.page-content {
+  max-width: 100%;
+  padding: 0;
+}

@@ -25,11 +25,6 @@ This portfolio highlights some of the systems I’ve built or led.
 
 Looking for someone who can think strategically, build intelligently, and communicate clearly? You’re in the right place.
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 693e327aef72865cbdbc9d36a0c6352452c8a662
 <!-- Projects Section -->
 <section id="projects" class="section bg-light">
   <div class="container-wide">

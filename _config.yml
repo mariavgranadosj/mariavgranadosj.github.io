@@ -29,7 +29,7 @@ author: Maria Granados
 navbar-links:
   About Me: "about"
   Portfolio: "portfolio"
-  Resume: "/assets/data/resume.pdf"
+  Resume: "cv"
 
 ################
 # --- Logo --- #
