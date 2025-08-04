@@ -305,4 +305,8 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 # Added by Maria Granados
-custom-css: assets/css/custom-styles.css
+sass:
+  style: compressed
+include:
+  - assets/css
+
