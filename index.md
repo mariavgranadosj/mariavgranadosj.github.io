@@ -25,12 +25,14 @@ This portfolio highlights some of the systems I’ve built or led.
 
 Looking for someone who can think strategically, build intelligently, and communicate clearly? You’re in the right place.
 
-
-
 <!-- Projects Section -->
 <section id="projects" class="section bg-light">
   <div class="container-wide">
-    <h2 class="text-center mb-5">🚀 Featured Projects</h2>
+    <h2 class="text-center mb-4">🚀 Featured Projects</h2>
+    <p class="text-center mb-5">
+      A selection of end-to-end ML, GenAI, and automation projects I’ve led or built. <br/>
+      From churn prediction systems deployed into bank environments, to LLM-powered prototypes and streamlined analytics infrastructure — each project reflects real-world impact.
+    </p>
 
     <!-- Project 1 -->
     <div class="row align-items-center mb-5">
@@ -38,7 +40,7 @@ Looking for someone who can think strategically, build intelligently, and commun
         <img src="/assets/img/churn-header.png" alt="Churn Prediction System" class="img-fluid rounded shadow">
       </div>
       <div class="col-md-6">
-        <h3><a href="/churn-prediction" class="project-link">Internal Churn Prediction ML System</a></h3>
+        <h3><a href="{{ '/churn-prediction' | relative_url }}" class="project-link">Internal Churn Prediction ML System</a></h3>
         <p><strong>Role:</strong> Lead Data Scientist and ML Engineer<br/>
         <strong>Organisation:</strong> P&N Bank</p>
         <p>Built the bank’s first internal ML system to predict and reduce churn across Home Loans and Term Deposits. Delivered scalable ML pipelines integrated with business ops and dashboards.</p>
@@ -51,7 +53,7 @@ Looking for someone who can think strategically, build intelligently, and commun
         <img src="/assets/img/genai-header.png" alt="GenAI LLM Prototype" class="img-fluid rounded shadow">
       </div>
       <div class="col-md-6">
-        <h3><a href="/llm-genai-prototype" class="project-link">GenAI LLM Prototype</a></h3>
+        <h3><a href="{{ '/llm-genai-prototype' | relative_url }}" class="project-link">GenAI LLM Prototype</a></h3>
         <p><strong>Role:</strong> ML Engineer<br/>
         <strong>Organisation:</strong> P&N Bank</p>
         <p>Prototyped an internal GenAI assistant using LLMs to summarise policies, assist customer-facing staff, and integrate with SharePoint knowledge base. Built with LangChain and Streamlit.</p>
@@ -64,7 +66,7 @@ Looking for someone who can think strategically, build intelligently, and commun
         <img src="/assets/img/reporting.png" alt="Reporting Automation" class="img-fluid rounded shadow">
       </div>
       <div class="col-md-6">
-        <h3><a href="/reporting-automation" class="project-link">Reporting Automation & Data Strategy</a></h3>
+        <h3><a href="{{ '/reporting-automation' | relative_url }}" class="project-link">Reporting Automation & Data Strategy</a></h3>
         <p><strong>Role:</strong> Senior Data Analyst (Tech Lead)<br/>
         <strong>Organisation:</strong> P&N Bank</p>
         <p>Delivered $450K+ in operational savings by leading multiple reporting automation initiatives. Improved data quality, stakeholder access, and time-to-decision via scalable Power BI pipelines.</p>
