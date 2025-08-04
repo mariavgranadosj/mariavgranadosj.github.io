@@ -228,24 +228,3 @@ body {
     font-size: 1rem;
   }
 }
-
-
-/* Remove unwanted space between navbar and page header */
-.site-header {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-
-.page-header {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* If you're using author_profile avatar */
-.author__avatar {
-  margin-top: -40px; /* adjust as needed */
-}
-
-.page-header {
-  padding-top: 0 !important;
-}
