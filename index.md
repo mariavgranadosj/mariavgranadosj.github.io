@@ -93,7 +93,7 @@ permalink: /
 </section>
 
 <!-- PROJECT 3 -->
-<section class="card-section dark-bg>
+<section class="card-section dark-bg">
   <div class="inner-card row align-items-center">
     <div class="col-md-6">
       <img src="/assets/img/reporting.png" alt="Reporting Automation" class="img-fluid rounded shadow">
