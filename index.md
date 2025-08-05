@@ -17,7 +17,7 @@ permalink: /
 </div>
 
 <!-- ABOUT ME -->
-<section id="about-me" class="card-section light-bg diagonal-bottom">
+<section id="about-me" class="card-section light-bg">
   <div class="inner-card">
     <h2>🙋 About Me</h2>
     <p>Hi, I’m <strong>Maria Granados</strong> — a Senior Data Scientist and Machine Learning Engineer with 6+ years of experience designing and deploying data and AI/ML systems that are production-ready, scalable, and aligned with strategic business outcomes.</p>
@@ -29,7 +29,7 @@ permalink: /
 </section>
 
 <!-- AREAS OF FOCUS -->
-<section id="focus-areas" class="card-section dark-bg diagonal-top diagonal-bottom">
+<section id="focus-areas" class="card-section dark-bg">
   <div class="inner-card">
     <h2>🧠 Areas of Focus</h2>
     <div class="row">
@@ -53,18 +53,17 @@ permalink: /
 </section>
 
 <!-- PROJECTS INTRO -->
-<section id="projects" class="card-section light-bg diagonal-top diagonal-bottom">
+<section id="projects" class="card-section light-bg">
   <div class="inner-card">
     <h2>🚀 Featured Projects</h2>
     <p class="text-center mb-5"> 
-      I specialise in scalable ML pipelines, GenAI tools, and full-stack data systems across banking, consulting, and tech — bridging business needs with impactful technical delivery.<br/><br/>
       This portfolio highlights some of the systems I’ve built or led. From churn prediction systems deployed in banking to LLM-powered tools and reporting automation — each project reflects real-world impact.
     </p>
   </div>
 </section>
 
 <!-- PROJECT 1 -->
-<section class="card-section dark-bg diagonal-top diagonal-bottom">
+<section class="card-section dark-bg">
   <div class="inner-card row align-items-center">
     <div class="col-md-6">
       <img src="/assets/img/churn-header.png" alt="Churn Prediction System" class="img-fluid rounded shadow">
@@ -79,7 +78,7 @@ permalink: /
 </section>
 
 <!-- PROJECT 2 -->
-<section class="card-section light-bg diagonal-top diagonal-bottom">
+<section class="card-section light-bg">
   <div class="inner-card row align-items-center flex-row-reverse">
     <div class="col-md-6">
       <img src="/assets/img/genai-header.png" alt="GenAI LLM Prototype" class="img-fluid rounded shadow">
@@ -94,7 +93,7 @@ permalink: /
 </section>
 
 <!-- PROJECT 3 -->
-<section class="card-section dark-bg diagonal-top diagonal-bottom">
+<section class="card-section dark-bg>
   <div class="inner-card row align-items-center">
     <div class="col-md-6">
       <img src="/assets/img/reporting.png" alt="Reporting Automation" class="img-fluid rounded shadow">
@@ -109,7 +108,7 @@ permalink: /
 </section>
 
 <!-- HUMANITY + AI -->
-<section class="card-section light-bg diagonal-top diagonal-bottom">
+<section class="card-section light-bg">
   <div class="inner-card">
     <h2>🎨 Humanity + AI</h2>
     <p>When I’m not building, I explore the narrative structures that shape us — studying cultural systems through history, literature, philosophy, and fashion.</p>
@@ -119,7 +118,7 @@ permalink: /
 </section>
 
 <!-- WILLIAM BLAKE QUOTE -->
-<section class="card-section dark-bg diagonal-top">
+<section class="card-section dark-bg">
   <div class="inner-card">
     <blockquote>
       <p>
