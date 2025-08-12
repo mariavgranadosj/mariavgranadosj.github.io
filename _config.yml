@@ -10,14 +10,15 @@
 ############################
 
 # Name of website
+
 title: "Maria Granados · AI/ML Engineer"
-description: "Portfolio of Maria Granados – Senior Data Scientist and ML Engineer"
+description: "Senior Data Scientist & ML Engineer building AI systems, GenAI prototypes, and ML infrastructure."
 url: "https://mariavgranadosj.github.io"
 baseurl: ""
 
 # Your name to show in the footer
 author: Maria Granados
-# email: maria.v.granadosj@gmail.com
+email: maria.v.granadosj@gmail.com
 # github: https://github.com/mariavgranadosj
 # linkedin: https://www.linkedin.com/in/mvgranados
 # location: Australia

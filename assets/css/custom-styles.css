@@ -228,3 +228,109 @@ body {
     font-size: 1rem;
   }
 }
+
+/* Reduce hero spacing & headings on small screens */
+@media (max-width: 768px) {
+  .page-header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  .page-title, .post-title, h1 {
+    font-size: 1.75rem;
+    line-height: 1.2;
+  }
+  h2 { font-size: 1.25rem; }
+  p, li { font-size: 1rem; }
+}
+
+/* Make sure there's no gap between navbar and header */
+.navbar + .page-header,
+.navbar + header.page-header {
+  margin-top: 0;
+}
+
+/* Ensure feature images scale nicely */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Areas of Focus — single list that becomes two columns on desktop */
+#focus-areas .focus-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+#focus-areas .focus-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+  /* Keep items intact; avoid awkward column breaks */
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* Desktop: split into two columns */
+@media (min-width: 992px) {
+  #focus-areas .focus-list {
+    column-count: 2;      /* visually 2 columns, DOM order stays linear */
+    column-gap: 2rem;     /* space between columns */
+  }
+}
+
+/*Tighten sides inside your card on small screens */
+@media (max-width: 768px) {
+  #focus-areas .inner-card {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Read More decoration*/
+.read-more {
+  display: inline-block;
+  margin-top: .5rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.read-more:hover { text-decoration: underline; }
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Offset anchor scroll position so headings aren't hidden behind the navbar */
+:target::before {
+  content: "";
+  display: block;
+  height: 80px; /* adjust to your navbar height */
+  margin-top: -80px;
+}
+
+/* ================= SOCIAL ICONS ============================ */
+.social-icons {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  gap: 10px;
+}
+
+.social-icons li a {
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 18px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.social-icons li a:hover {
+  background: #555;
+  color: #fff;
+}

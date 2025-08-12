@@ -1,13 +1,32 @@
 ---
 layout: page
-title: "Maria Granados"
+title: "Senior Data Scientist | GenAI & ML Engineering"
 permalink: /cv/
 ---
 
-# Senior Data Scientist | GenAI & ML Engineering
+<ul class="social-icons">
+  <li>
+    <a href="mailto:maria.v.granadosj@gmail.com" title="Email">
+      <i class="fa fa-envelope"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://linkedin.com/in/mvgranados" target="_blank" title="LinkedIn">
+      <i class="fa fa-linkedin"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/mariavgranadosj" target="_blank" title="GitHub">
+      <i class="fa fa-github"></i>
+    </a>
+  </li>
+  <li>
+    <a href="/assets/data/resume.pdf" target="_blank" title="Download Resume">
+      <i class="fa fa-file-pdf-o"></i>
+    </a>
+  </li>
+</ul>
 
-📧 maria.v.granadosj@gmail.com |
-🌐 [LinkedIn](https://linkedin.com/in/mvgranados) | 🐙 [GitHub](https://github.com/mariavgranadosj) | ⬇️ [Resume](/assets/data/resume.pdf)
 
 ## Summary  
 
