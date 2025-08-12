@@ -12,7 +12,7 @@ permalink: /
     <p>Building AI systems, GenAI prototypes, and ML infrastructure.</p>
     <a href="#projects" class="btn btn-light m-2">View Projects</a>
     <a href="/cv/" class="btn btn-outline-light m-2">Resume</a>
-    <a href="mailto:maria.v.granadosj@gmail.com" class="btn btn-outline-light m-2" aria-label="Email Maria">Contact Me</a>
+    <a href="mailto:maria.v.granadosj@gmail.com" class="btn btn-light m-2" aria-label="Email Maria">Contact Me</a>
     <div class="scroll-cue mt-5"><a href="#intro">↓</a></div>
   </div>
 </div>
