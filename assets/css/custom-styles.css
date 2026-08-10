@@ -25,9 +25,11 @@ main.container-fluid { padding:0; }
 .home-hero .overline,.role-line { color:#df997e; }
 .role-line { margin:1rem 0 0; font-size:1.02rem; font-weight:650; }
 .intro { max-width:620px; margin:1.6rem 0 0; color:#d3c8d0; font-size:1.25rem; line-height:1.5; }
-.hero-links { display:flex; flex-wrap:wrap; gap:1.4rem; margin-top:2.2rem; align-items:center; }
-.hero-links a { border-bottom:1px solid currentColor; color:#f8f1f5; font-size:.86rem; font-weight:700; text-decoration:none; }
-.hero-links .primary-link { padding:.7rem 1rem; border:1px solid #df997e; background:#df997e; color:#211a23; }
+.hero-links { display:flex; flex-wrap:wrap; gap:.75rem; margin-top:2.2rem; align-items:center; }
+.hero-links a { display:inline-flex; min-height:46px; padding:.7rem 1rem; border:1px solid #66515f; color:#f8f1f5; font-size:.86rem; font-weight:700; text-decoration:none; align-items:center; justify-content:center; }
+.hero-links a:hover { border-color:#df997e; color:#df997e; }
+.hero-links .primary-link { border-color:#df997e; background:#df997e; color:#211a23; }
+.hero-links .primary-link:hover { background:#e8aa92; color:#211a23; }
 .portrait-frame { margin:0; }
 .portrait-frame img { display:block; width:100%; aspect-ratio:4/5; object-fit:cover; object-position:center 22%; filter:saturate(.88); }
 .portrait-frame figcaption { margin-top:.65rem; color:#bcaeb8; font-family:Georgia,"Times New Roman",serif; font-size:.78rem; font-style:italic; text-align:right; }
