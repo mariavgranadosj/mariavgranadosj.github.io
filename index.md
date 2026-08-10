@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "Maria Granados | Senior AI/ML Engineer"
+title: "Maria Granados · Senior AI/ML Engineer"
 permalink: /
 full-width: true
-share-title: "Maria Granados | Senior AI/ML Engineer"
+class: home-page
+share-title: "Maria Granados · Senior AI/ML Engineer"
 share-description: "Agentic platforms, enterprise AI, and production machine learning."
 ---
 

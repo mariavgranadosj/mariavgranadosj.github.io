@@ -25,7 +25,7 @@
             </div>
           </li>
         {% else %}
-          <li class="nav-item">
+          <li class="nav-item{% if page.url == link[1] %} active{% endif %}">
             <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
           </li>
         {%- endif -%}

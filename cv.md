@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Maria Granados"
+title: "Résumé"
+subtitle: "Senior AI/ML Engineer"
 permalink: /cv/
 class: cv-page
 ---
