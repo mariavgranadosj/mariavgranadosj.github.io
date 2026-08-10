@@ -16,3 +16,7 @@ bundle exec jekyll serve
 ```
 
 Main content lives in `index.md`, the case-study Markdown files, and `cv.md`. The visual system is in `assets/css/custom-styles.css`.
+
+## Licensing
+
+The website software is available under the MIT License, retaining attribution for Beautiful Jekyll. Original portfolio content and visual assets are not included in that licence. See `LICENSE` and `NOTICE.md`.
