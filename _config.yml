@@ -28,8 +28,11 @@ email: maria.v.granadosj@gmail.com
 ###############################################
 
 navbar-links:
-  Work: /#work
-  About: /#about-me
+  Home: /
+  Agent Platform: /agent-platform-harness/
+  Data Discovery: /data-guidance-discovery/
+  AI Value: /ai-adoption-value/
+  Churn ML: /churn-prediction/
   Résumé: /cv/
 
 ################

@@ -4,6 +4,7 @@ title: Enterprise Data & Guidance Discovery
 subtitle: Finding trusted data and organisational knowledge in seconds
 tags: [semantic-search, rag, enterprise-ai]
 author: Maria Granados
+date: 2026-08-10
 comments: false
 mathjax: false
 social-share: false

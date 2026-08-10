@@ -4,6 +4,7 @@ title: Enterprise AI Adoption & Value
 subtitle: A shared language for measuring platform reach, use, and value
 tags: [ai-strategy, product-analytics, enterprise-ai]
 author: Maria Granados
+date: 2026-08-10
 comments: false
 mathjax: false
 social-share: false

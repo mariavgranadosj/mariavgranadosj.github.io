@@ -1,42 +1,39 @@
 ---
 layout: post
-title: Reporting Automation Framework
-subtitle: Governed, reusable reporting delivery across business teams
-cover-img: /assets/img/reporting.png
-thumbnail-img: /assets/img/reporting.png
-share-img: /assets/img/reporting.png
+title: Accreditation Reporting Automation
+subtitle: A governed reporting workflow that cut delivery time by 90%
 tags: [automation, powerbi, data-platform]
 author: Maria Granados
+date: 2026-08-10
 comments: false
 mathjax: false
 social-share: false
 ---
 
-## Context
+## The challenge
 
-Reporting delivery relied on repeated manual work, inconsistent definitions, and specialist support. Teams needed faster access to trusted information without weakening governance.
+Accreditation reporting for a Top 100 business school involved complex, repetitive data preparation across multiple systems. The biennial process consumed hundreds of hours and created avoidable accuracy and compliance risk.
 
-## My role
+## The response
 
-As technical lead, I designed the reusable delivery model, aligned stakeholders on standards, and enabled analysts to adopt the new approach.
+I led the reporting workflow from data migration and preparation through analysis and delivery. I replaced manual steps with reusable Python, SQL, SAS, and Power BI processes aligned to accreditation and institutional standards.
 
-## Approach
+The work included:
 
-- Created metadata-driven pipelines and reusable reporting templates.
-- Introduced user-level access, usage logging, and data-quality controls.
-- Connected Python, SQL, Snowflake, Power BI, Power Automate, and SharePoint workflows.
-- Documented delivery patterns and trained analysts to extend them safely.
-- Shifted recurring requests toward governed self-service.
+- Reusable transformations and validation checks.
+- Consistent reporting definitions and documented workflows.
+- Privacy impact assessments and compliance reviews.
+- Clear handover so the process could be repeated without rebuilding it.
 
-## Outcome
+## Selected outcomes
 
-- Reduced reporting effort by more than **60%**.
-- Shortened delivery cycles from weeks to hours for repeatable use cases.
-- Delivered **$200K-$450K** in estimated value per major automation initiative.
-- Improved consistency, traceability, and access to decision-ready information.
+- Cut reporting time by **90%**.
+- Saved more than **500 hours** every two years.
+- Improved accuracy, traceability, and compliance.
+- Created a repeatable foundation for future accreditation cycles.
 
 ## Technology
 
-`Power BI` · `Python` · `SQL` · `Snowflake` · `Power Automate` · `SharePoint`
+`Python` · `SQL` · `SAS` · `Power BI` · `Data migration` · `Privacy assessment`
 
-> Commercial figures are estimates based on avoided effort and delivery capacity.
+> Organisation-specific datasets, reporting rules, and internal artefacts are omitted.

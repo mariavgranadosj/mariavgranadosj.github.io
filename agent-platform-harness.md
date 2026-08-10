@@ -4,6 +4,7 @@ title: Enterprise Agent Platform & Harness
 subtitle: Encoding delivery standards, reusable skills, governance, and self-service deployment
 tags: [agentic-ai, mcp, platform-engineering]
 author: Maria Granados
+date: 2026-08-10
 comments: false
 mathjax: false
 social-share: false
