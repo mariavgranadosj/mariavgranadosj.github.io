@@ -1,72 +1,41 @@
 ---
 layout: post
-title: Internal Churn Prediction ML System
-subtitle: Modular, production-grade churn prediction system integrated with strategic decision-making
-cover-img: /assets/img/churn-background-header.png
-thumbnail-img: /assets/img/churn-header.png
-share-img: /assets/img/churn-header.png
+title: Churn Prediction ML System
+subtitle: The bank's first internal churn models and reusable MLOps foundations
 tags: [churn, ML, banking]
 author: Maria Granados
-gh-repo: mariavgranadosj/mariavgranadosj.github.io
-comments: true
-mathjax: true
+date: 2026-08-10
+comments: false
+mathjax: false
+social-share: false
 ---
 
-### 📌 Project Summary
+## The challenge
 
-**Role:** Lead Data Scientist and ML Engineer  
-**Organisation:** P&N Bank  
+Churn management relied on retrospective reporting. Product teams needed earlier signals they could use to shape pricing and retention decisions across home loans and term deposits.
 
-Designed and delivered the bank’s first internal machine learning system to predict and reduce customer churn across Home Loans and Term Deposits. The project established a scalable ML foundation, integrated with key business processes, and supported strategic decision-making for proactive retention.
+## The response
 
----
+I led the bank's first internal churn modelling system from problem framing through experimentation and production design. The work combined customer lifecycle signals, business-aligned evaluation, modular pipelines, and decision tools for product teams.
 
-### 🎯 Objective
+### Sanitised architecture
 
-Shifted the bank's churn management approach from reactive reporting to a proactive, model-driven system for identifying and targeting at-risk customers early in the lifecycle.
+<div class="abstract-diagram" aria-label="Abstract churn prediction flow">
+  <div><span>01</span><strong>Signals</strong><small>customer behaviour</small></div>
+  <div><span>02</span><strong>Features</strong><small>lifecycle patterns</small></div>
+  <div><span>03</span><strong>Model</strong><small>risk and drivers</small></div>
+  <div><span>04</span><strong>Act</strong><small>retention decisions</small></div>
+</div>
 
----
+## Selected outcomes
 
-### 🛠️ Scope and Responsibilities
+- Identified a **30% churn reduction opportunity** that influenced pricing strategy.
+- Improved F1-score and PR-AUC by **20%** on imbalanced datasets.
+- Established reusable MLOps foundations for versioning, CI/CD, and production monitoring.
+- Made model predictions and drivers accessible to business users.
 
-#### 🔹 Problem Framing and Strategic Alignment
-- Collaborated with product, retail, and data stakeholders to scope the use case and define measurable success metrics.
-- Reframed the business problem to align with retention priorities and move beyond retrospective churn tracking.
+## Technology
 
-#### 🔹 Feature Engineering and Domain Collaboration
-- Mapped customer journeys and extracted churn signals from behavioral, transactional, and engagement data.
-- Engineered features aligned to lifecycle stages and time windows (e.g., recent vs. long-term trends) to surface early signs of disengagement.
+`Python` · `Snowflake` · `scikit-learn` · `Design of Experiments` · `CI/CD` · `Power BI`
 
-#### 🔹 Model Development and Experimentation
-- Conducted EDA and addressed class imbalance in the churn target.
-- Selected business-aligned metrics (F1, PR-AUC) for evaluation.
-- Applied Design of Experiments to compare model types and feature groups, balancing performance and interpretability.
-- Improved model performance by 30% through iterative tuning and feature refinement.
-
-#### 🔹 MLOps and Pipeline Design
-- Built modular ML pipelines with Python, Snowflake, and produced interactive visuals in Power BI.
-- Integrated CI/CD for reproducibility and scalability.
-- Leveraged Snowflake model registry for versioning and automated scoring.
-
-#### 🔹 Stakeholder Tools and Enablement
-- Delivered interactive Streamlit apps to expose churn insights to business users.
-- Reduced analyst load by enabling direct access to model predictions and drivers.
-- Produced documentation and reusable code templates to support team enablement.
-
-#### 🔹 Operational Integration and Governance
-- Worked with Product and Salesforce teams to explore CRM workflow integration.
-- Facilitated discussions around model governance, oversight, and data quality as part of broader enablement strategy.
-
----
-
-### 💡 Outcomes and Impact
-
-- Identified a **30% churn reduction opportunity** that directly shaped pricing and retention strategies.
-- Delivered estimated annual cost savings of **$110K** by reducing manual reporting effort.
-- Established a **reusable ML architecture** now being extended to credit risk and product lifecycle projects.
-
----
-
-### 🧰 Tools & Technologies
-
-`Python`, `Snowflake`, `scikit-learn`, `CI/CD`, `Design of Experiments`, `Power BI`, `GitHub Actions`
+> Recreated from scratch as sanitised architecture. Customer data, feature definitions, decision thresholds, and workflow details are omitted.
