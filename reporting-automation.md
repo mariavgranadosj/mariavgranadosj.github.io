@@ -1,34 +1,42 @@
 ---
 layout: post
 title: Reporting Automation Framework
-subtitle: Self-serve reporting and dashboard delivery across business units
+subtitle: Governed, reusable reporting delivery across business teams
 cover-img: /assets/img/reporting.png
 thumbnail-img: /assets/img/reporting.png
 share-img: /assets/img/reporting.png
-tags: [automation, powerbi, streamlit]
+tags: [automation, powerbi, data-platform]
 author: Maria Granados
-gh-repo: mariavgranadosj/mariavgranadosj.github.io
-comments: true
-mathjax: true
+comments: false
+mathjax: false
+social-share: false
 ---
 
-### Overview
+## Context
 
-Built a metadata-driven reporting automation system to streamline dashboards, reduce manual effort, and align data access with governance.
+Reporting delivery relied on repeated manual work, inconsistent definitions, and specialist support. Teams needed faster access to trusted information without weakening governance.
 
-### Responsibilities
+## My role
 
-- Designed reusable report-generation pipeline
-- Implemented user-level access, metadata tracking, and usage logging
-- Trained analysts on using templates and automating their work
-- Reduced reporting effort across several teams by over **60%**
+As technical lead, I designed the reusable delivery model, aligned stakeholders on standards, and enabled analysts to adopt the new approach.
 
-### Stack
+## Approach
 
-`Power BI`, `Python`, `SQL`, `Snowflake`, `Power Automate`, `SharePoint`
+- Created metadata-driven pipelines and reusable reporting templates.
+- Introduced user-level access, usage logging, and data-quality controls.
+- Connected Python, SQL, Snowflake, Power BI, Power Automate, and SharePoint workflows.
+- Documented delivery patterns and trained analysts to extend them safely.
+- Shifted recurring requests toward governed self-service.
 
-### Outcome
+## Outcome
 
-✅ Saved $200K–450K per reporting initiative  
-✅ Reduced delivery time from weeks to hours  
-✅ Scaled data access with security and governance
+- Reduced reporting effort by more than **60%**.
+- Shortened delivery cycles from weeks to hours for repeatable use cases.
+- Delivered **$200K-$450K** in estimated value per major automation initiative.
+- Improved consistency, traceability, and access to decision-ready information.
+
+## Technology
+
+`Power BI` · `Python` · `SQL` · `Snowflake` · `Power Automate` · `SharePoint`
+
+> Commercial figures are estimates based on avoided effort and delivery capacity.
