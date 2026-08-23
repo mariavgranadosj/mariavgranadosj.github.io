@@ -38,31 +38,35 @@ class: cv-page
 <div class="cv-timeline">
   <article>
     <p class="cv-period">Sep 2025 to present</p>
-    <h3>Senior AI Engineer, AI Platform</h3>
-    <p class="cv-company">Fortescue Metals Group · Perth</p>
+    <h3>Senior AI Engineer</h3>
+    <p class="cv-company">Fortescue · Perth</p>
     <ul>
-      <li>Architected an enterprise agent platform and governed skills hub for software, data, deployment, and assurance workflows.</li>
-      <li>Built enterprise discovery capabilities that prevented substantial vendor spend and delivered measurable value within the first month.</li>
-      <li>Designed AI adoption and value measurement across a broad platform portfolio and the full enterprise workforce.</li>
+      <li>Architected an MCP-based enterprise agent platform that turns a natural-language request into governed, production-ready software, from requirements and planning through acceptance criteria and delivery across enterprise systems.</li>
+      <li>Built a governed internal library of reusable AI capabilities across engineering, deployment, and assurance, compressing a multi-day DevOps workflow into minutes.</li>
+      <li>Built an enterprise discovery platform that replaced incumbent vendor tooling and earned internal recognition for measurable business impact.</li>
+      <li>Architected hybrid semantic search and RAG across OpenAI, Snowflake, Databricks, and vector databases, cutting discovery time from weeks to seconds at enterprise scale.</li>
+      <li>Embedded responsible AI safeguards into the agent harness and implemented LLMOps with MLflow across containerised pipelines.</li>
     </ul>
   </article>
   <article>
     <p class="cv-period">Jul 2023 to Sep 2025</p>
-    <h3>Senior ML Engineer and Data Scientist</h3>
+    <h3>Senior Data Scientist, Technical Lead for ML Systems</h3>
     <p class="cv-company">P&amp;N Bank · Perth</p>
     <ul>
-      <li>Led ML and GenAI delivery bank-wide and deployed the first internal churn models.</li>
-      <li>Identified a meaningful churn-reduction opportunity and materially improved model performance on imbalanced data.</li>
-      <li>Delivered $110K+ in automation capacity and established cloud-native Snowflake MLOps pipelines.</li>
+      <li>Technical lead for ML and GenAI initiatives bank-wide, mentoring the analytics team and lifting delivery capability.</li>
+      <li>Deployed the bank's first internal churn models across home loans and term deposits, informing product pricing strategy.</li>
+      <li>Co-developed an NLP abuse-detection prototype using Hugging Face transformers on transaction data to protect vulnerable customers from financial abuse.</li>
+      <li>Built cloud-native Snowflake MLOps pipelines and Streamlit and Power BI automation for versioning, CI/CD, and production monitoring.</li>
     </ul>
   </article>
   <article>
-    <p class="cv-period">Jun 2022 to Jun 2023</p>
+    <p class="cv-period">Jul 2022 to Jul 2023</p>
     <h3>Data and AI Consultant</h3>
     <p class="cv-company">Deloitte · Perth</p>
     <ul>
-      <li>Rescued a $1M high-risk migration and prevented $250K+ in further overruns.</li>
-      <li>Led a team of 10 modernising a 20-year legacy database and reusable ETL delivery.</li>
+      <li>Led the turnaround of a high-risk public sector data migration, modernising legacy systems and establishing scalable ETL pipelines using Talend and Java.</li>
+      <li>Coached team members on DevOps and pipeline debugging while delivering measurable improvements in data quality and stakeholder confidence.</li>
+      <li>Enabled cross-department analytics through metadata-driven ingestion and collaborative agile delivery.</li>
     </ul>
   </article>
   <article>
@@ -75,12 +79,23 @@ class: cv-page
     </ul>
   </article>
   <article>
-    <p class="cv-period">Aug 2019 to Mar 2021</p>
-    <h3>Data Analyst and IT Manager</h3>
-    <p class="cv-company">Bridge42 · Perth</p>
+    <p class="cv-period">Aug 2019 to Feb 2021</p>
+    <h3>Data Analyst</h3>
+    <p class="cv-company">NS Group · Perth</p>
     <ul>
-      <li>Delivered executive analytics and reduced infrastructure and vendor costs by 70%.</li>
-      <li>Modernised security and remote access to NIST-aligned standards.</li>
+      <li>Delivered reporting dashboards and trend insights for executive stakeholders.</li>
+      <li>Modernised data security policies and remote infrastructure, enabling business continuity during the pandemic and reducing vendor costs.</li>
+    </ul>
+  </article>
+  <article>
+    <p class="cv-period">Jan 2014 to Aug 2019</p>
+    <h3>Early Career Experience, IT Support and Operations</h3>
+    <p class="cv-company">NS Group, Best Body, and Solosi · Perth</p>
+    <ul>
+      <li>Worked across startup and small and medium-sized business environments, including a mathematical modelling startup.</li>
+      <li>Delivered IT support and technical operations, maintained company intranets using HTML and CSS, and provided help desk support.</li>
+      <li>Created technical and marketing assets using Adobe Photoshop and Illustrator to support business development and client communications.</li>
+      <li>Developed quality assurance documentation and coordinated cross-office stakeholder communication.</li>
     </ul>
   </article>
 </div>
