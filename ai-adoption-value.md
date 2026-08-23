@@ -29,9 +29,9 @@ I designed an enterprise-wide framework for measuring AI reach, adoption, and bu
 
 ## Selected outcomes
 
-- **20+ platforms**.
-- **120+ capabilities, tools, and services**.
-- Quantifies the breadth and depth of AI adoption across a workforce of **16,000+ people**.
+- A broad portfolio of platforms.
+- A wide range of capabilities, tools, and services.
+- Quantifies the breadth and depth of AI adoption across the full enterprise workforce.
 - Provides evidence for product teams and enterprise leadership.
 
 ## Why it matters

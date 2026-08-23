@@ -30,9 +30,9 @@ share-description: "Agentic platforms, enterprise AI, and production machine lea
 
 <section class="proof-strip" aria-label="Selected outcomes">
   <div class="site-shell proof-grid">
-    <div><strong>$1M+</strong><span>vendor spend avoided</span></div>
-    <div><strong>$70K+</strong><span>value in month one</span></div>
-    <div><strong>30%</strong><span>churn opportunity identified</span></div>
+    <div><strong>Substantial</strong><span>vendor spend avoided</span></div>
+    <div><strong>Measurable</strong><span>value within the first month</span></div>
+    <div><strong>Meaningful</strong><span>churn-reduction opportunity identified</span></div>
     <div><strong>Weeks → minutes</strong><span>deployment workflow</span></div>
   </div>
 </section>
@@ -81,7 +81,7 @@ share-description: "Agentic platforms, enterprise AI, and production machine lea
         <div>
           <p class="work-label">Predictive ML · P&amp;N Bank</p>
           <h3><a href="/churn-prediction/">Churn Prediction ML System</a></h3>
-          <p>The bank’s first internal churn models, revealing a 30% reduction opportunity and creating reusable MLOps foundations.</p>
+          <p>The bank’s first internal churn models, revealing a meaningful churn-reduction opportunity and creating reusable MLOps foundations.</p>
         </div>
         <a class="row-link" href="/churn-prediction/" aria-label="Read Churn Prediction ML System case study">View <span aria-hidden="true">↗</span></a>
       </article>

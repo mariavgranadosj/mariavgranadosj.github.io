@@ -29,8 +29,8 @@ I led the bank's first internal churn modelling system from problem framing thro
 
 ## Selected outcomes
 
-- Identified a **30% churn reduction opportunity** that influenced pricing strategy.
-- Improved F1-score and PR-AUC by **20%** on imbalanced datasets.
+- Identified a meaningful churn-reduction opportunity that influenced pricing strategy.
+- Materially improved model performance on imbalanced data.
 - Established reusable MLOps foundations for versioning, CI/CD, and production monitoring.
 - Made model predictions and drivers accessible to business users.
 

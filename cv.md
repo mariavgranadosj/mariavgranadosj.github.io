@@ -11,7 +11,6 @@ class: cv-page
   <h2>Agentic platforms. Enterprise AI. Production ML.</h2>
   <p>I build the shared platforms, reusable capabilities, and safeguards that help teams move from AI experiments to governed delivery.</p>
   <div class="cv-actions">
-    <a class="cv-download" href="/assets/data/Maria-Granados-Resume.pdf" download>Download résumé PDF</a>
     <a href="mailto:maria.v.granadosj@gmail.com">Email</a>
     <a href="https://linkedin.com/in/mvgranados">LinkedIn</a>
     <a href="https://github.com/mariavgranadosj">GitHub</a>
@@ -19,9 +18,9 @@ class: cv-page
 </section>
 
 <section class="cv-impact" aria-label="Selected career impact">
-  <div><strong>$1M+</strong><span>vendor spend avoided</span></div>
-  <div><strong>$70K+</strong><span>value in month one</span></div>
-  <div><strong>30%</strong><span>churn opportunity identified</span></div>
+  <div><strong>Substantial</strong><span>vendor spend avoided</span></div>
+  <div><strong>Measurable</strong><span>value within the first month</span></div>
+  <div><strong>Meaningful</strong><span>churn-reduction opportunity identified</span></div>
   <div><strong>90%</strong><span>reporting time reduced</span></div>
 </section>
 
@@ -43,8 +42,8 @@ class: cv-page
     <p class="cv-company">Fortescue Metals Group · Perth</p>
     <ul>
       <li>Architected an enterprise agent platform and governed skills hub for software, data, deployment, and assurance workflows.</li>
-      <li>Built enterprise discovery capabilities that avoided $1M+ vendor spend and delivered $70K+ value in the first month.</li>
-      <li>Designed AI adoption and value measurement across 20+ platforms, 120+ capabilities, and a 16,000+ workforce.</li>
+      <li>Built enterprise discovery capabilities that prevented substantial vendor spend and delivered measurable value within the first month.</li>
+      <li>Designed AI adoption and value measurement across a broad platform portfolio and the full enterprise workforce.</li>
     </ul>
   </article>
   <article>
@@ -53,7 +52,7 @@ class: cv-page
     <p class="cv-company">P&amp;N Bank · Perth</p>
     <ul>
       <li>Led ML and GenAI delivery bank-wide and deployed the first internal churn models.</li>
-      <li>Identified a 30% churn-reduction opportunity and improved F1-score and PR-AUC by 20%.</li>
+      <li>Identified a meaningful churn-reduction opportunity and materially improved model performance on imbalanced data.</li>
       <li>Delivered $110K+ in automation capacity and established cloud-native Snowflake MLOps pipelines.</li>
     </ul>
   </article>

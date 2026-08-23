@@ -29,10 +29,10 @@ As part of a small delivery team, I built semantic discovery across fragmented e
 
 ## Selected outcomes
 
-- Avoided more than **$1M** in vendor spend.
-- Delivered over **$70K** in measured value in the first month.
-- Reduced discovery from weeks to seconds and one workflow from two hours to three seconds.
-- Nominated by Snowflake for a global Data Driver award.
+- Prevented substantial vendor spend.
+- Delivered measurable value within the first month.
+- Reduced discovery from weeks to seconds and one manual workflow to seconds.
+- Recognised for measurable business impact.
 
 ## Technology
 
