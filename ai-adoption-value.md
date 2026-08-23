@@ -29,8 +29,8 @@ I designed an enterprise-wide framework for measuring AI reach, adoption, and bu
 
 ## Selected outcomes
 
-- A broad portfolio of platforms.
-- A wide range of capabilities, tools, and services.
+- Unified a fragmented, multi-platform AI estate under one adoption framework.
+- Replaced isolated success stories with a single, comparable standard.
 - Quantifies the breadth and depth of AI adoption across the full enterprise workforce.
 - Provides evidence for product teams and enterprise leadership.
 
