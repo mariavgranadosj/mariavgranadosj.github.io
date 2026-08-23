@@ -30,10 +30,10 @@ share-description: "Agentic platforms, enterprise AI, and production machine lea
 
 <section class="proof-strip" aria-label="Selected outcomes">
   <div class="site-shell proof-grid">
-    <div><strong>Substantial</strong><span>vendor spend avoided</span></div>
-    <div><strong>Measurable</strong><span>value within the first month</span></div>
-    <div><strong>Meaningful</strong><span>churn-reduction opportunity identified</span></div>
-    <div><strong>Weeks → minutes</strong><span>deployment workflow</span></div>
+    <div><strong>Shipped in weeks</strong><span>from concept to production</span></div>
+    <div><strong>Adopted org-wide</strong><span>from day one</span></div>
+    <div><strong>Churn risk found</strong><span>shaped pricing strategy</span></div>
+    <div><strong>Deployment automated</strong><span>manual setup cut to minutes</span></div>
   </div>
 </section>
 
