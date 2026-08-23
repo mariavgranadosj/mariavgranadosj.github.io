@@ -50,13 +50,15 @@ class: cv-page
   </article>
   <article>
     <p class="cv-period">Jul 2023 to Sep 2025</p>
-    <h3>Senior Data Scientist, Technical Lead for ML Systems</h3>
+    <h3>Senior Data Scientist | Technical Lead | Machine Learning Systems</h3>
     <p class="cv-company">P&amp;N Bank · Perth</p>
     <ul>
       <li>Technical lead for ML and GenAI initiatives bank-wide, mentoring the analytics team and lifting delivery capability.</li>
       <li>Deployed the bank's first internal churn models across home loans and term deposits, informing product pricing strategy.</li>
       <li>Co-developed an NLP abuse-detection prototype using Hugging Face transformers on transaction data to protect vulnerable customers from financial abuse.</li>
       <li>Built cloud-native Snowflake MLOps pipelines and Streamlit and Power BI automation for versioning, CI/CD, and production monitoring.</li>
+      <li>Improved model performance on imbalanced datasets through factorial design of experiments and targeted hyperparameter tuning.</li>
+      <li>Drove organisation-wide data-literacy uplift delivering substantial ongoing value, partnering with C-suite, product, and frontline teams.</li>
     </ul>
   </article>
   <article>
@@ -64,13 +66,14 @@ class: cv-page
     <h3>Data and AI Consultant</h3>
     <p class="cv-company">Deloitte · Perth</p>
     <ul>
-      <li>Led the turnaround of a high-risk public sector data migration, modernising legacy systems and establishing scalable ETL pipelines using Talend and Java.</li>
-      <li>Coached team members on DevOps and pipeline debugging while delivering measurable improvements in data quality and stakeholder confidence.</li>
-      <li>Enabled cross-department analytics through metadata-driven ingestion and collaborative agile delivery.</li>
+      <li>Rescued a high-risk public sector data-migration project as technical lead, preventing significant further cost overruns and earning partner recognition for turnaround leadership.</li>
+      <li>Led a cross-functional team to modernise a 20-year legacy database, enabling scalable analytics across departments.</li>
+      <li>Designed metadata-driven ETL pipelines in Talend using Java and Regex, with CI/CD for large-scale data ingestion.</li>
+      <li>Mentored team members in Salesforce, DevOps, Talend, Git, and pipeline debugging.</li>
     </ul>
   </article>
   <article>
-    <p class="cv-period">Mar 2021 to Jun 2022</p>
+    <p class="cv-period">Mar 2021 to Jul 2022</p>
     <h3>Data Analyst</h3>
     <p class="cv-company">Curtin University · Perth</p>
     <ul>
